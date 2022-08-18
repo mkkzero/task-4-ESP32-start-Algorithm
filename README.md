@@ -11,6 +11,7 @@ In this project, I program the ESP32 with Arduino IDE.
 4-controlling an LED connected to GPIO 23.
 5-check if the LED connected to GPIO 23 is blinking.
 
+# this is the code
 //the code 
 
 /*
